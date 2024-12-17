@@ -26,6 +26,4 @@ This is a C# console application that simulates the movement of elevators in a m
 
 ### Steps to Run
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/elevator-simulation.git
-   cd elevator-simulation
+   git clone https://github.com/pfanananiinnocent/DVT_Elevator_Challenge.git
